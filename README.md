@@ -1,3 +1,8 @@
+## 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-usuario) 
+[Mi LinkedIn](https://www.linkedin.com/in/swjohanagudelo)
+
 ## 🛠️ Tecnologías y Herramientas
 
 ### 📊 Business Intelligence
