@@ -1,3 +1,3 @@
 # {Johan}
 
-[Perfil Profesional en LinkedIn]([http://www.limni.net](https://www.linkedin.com/in/swjohanagudelo/))
+[Perfil_Profesional_en_LinkedIn]([http://www.limni.net](https://www.linkedin.com/in/swjohanagudelo/))
