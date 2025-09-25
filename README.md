@@ -1,16 +1,26 @@
 ## 📩 Encuéntrame en: 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-usuario) 
-</br>
-[LinkedIn](https://www.linkedin.com/in/swjohanagudelo)
+<a href="https://www.linkedin.com/in/swjohanagudelo" target="_blank" rel="noreferrer"> <img src="linkedin.svg" alt="linkedin" width="40" height="40"/> </a> 
+
 <p align="left"> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="linux.svg" alt="linux" width="40" height="40"/> </a> 
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="postgresql.svg" alt="postgresql" width="40" height="40"/> </a> 
+    <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="redis.svg" alt="redis" width="40" height="40"/> </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="python.svg" alt="python" width="40" height="40"/> </a> 
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="tensorflow.svg" alt="tensorflow" width="40" height="40"/> </a> 
+  <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="git.svg" alt="git" width="40" height="40"/> </a> 
+  <a href="https://github.com/swjohan?tab=repositorieshttps://github.com/swjohan?tab=repositories" target="_blank" rel="noreferrer"> <img src="github.svg" alt="github" width="40" height="40"/> </a> 
+  <a href="https://github.com" target="_blank" rel="noreferrer"> <img src="github.svg" alt="github" width="40" height="40"/> </a> 
+  <a href="" target="_blank" rel="noreferrer"> <img src="html.svg" alt="html" width="40" height="40"/> </a> 
+  <a href="" target="_blank" rel="noreferrer"> <img src="css.svg" alt="css" width="40" height="40"/> </a> 
+  <a href="" target="_blank" rel="noreferrer"> <img src="javascript.svg" alt="javascript" width="40" height="40"/> </a> 
+  <a href="https://www.microsoft.com/es-es/power-platform/products/power-bi" target="_blank" rel="noreferrer"> <img src="powerbi.svg" alt="powerbi" width="40" height="40"/> </a>
+  <a href="https://www.metabase.com" target="_blank" rel="noreferrer"> <img src="metabase.svg" alt="metabase" width="40" height="40"/> </a> 
+  
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
+  
 </p>
 
 
