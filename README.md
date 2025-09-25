@@ -10,7 +10,6 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="python.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="tensorflow.svg" alt="tensorflow" width="40" height="40"/> </a> 
   <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="git.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://github.com/swjohan?tab=repositorieshttps://github.com/swjohan?tab=repositories" target="_blank" rel="noreferrer"> <img src="github.svg" alt="github" width="40" height="40"/> </a> 
   <a href="https://github.com" target="_blank" rel="noreferrer"> <img src="github.svg" alt="github" width="40" height="40"/> </a> 
   <a href="" target="_blank" rel="noreferrer"> <img src="html.svg" alt="html" width="40" height="40"/> </a> 
   <a href="" target="_blank" rel="noreferrer"> <img src="css.svg" alt="css" width="40" height="40"/> </a> 
