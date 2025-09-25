@@ -33,5 +33,7 @@
 ### 📡 Sistemas operativos
 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="linux.svg" alt="linux" width="40" height="40"/> </a> 
+  <a href="https://www.apple.com/co/os/macos/" target="_blank" rel="noreferrer"> <img src="macos.png" alt="macos" width="40" height="40"/> </a> 
+  <a href="https://www.microsoft.com/es-co/windows/" target="_blank" rel="noreferrer"> <img src="windows.png" alt="windows" width="40" height="40"/> </a> 
   
 </p>
