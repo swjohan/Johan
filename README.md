@@ -8,17 +8,19 @@
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="postgresql.svg" alt="postgresql" width="40" height="40"/> </a> 
     <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="redis.svg" alt="redis" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="python.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="tensorflow.svg" alt="tensorflow" width="40" height="40"/> </a> 
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="tensorflow.svg" alt="tensorflow" width="40" height="40"/> </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
+  <a href="https://www.ruby-lang.org/es/" target="_blank" rel="noreferrer"> <img src="ruby.svg" alt="ruby" width="40" height="40"/> </a>
   <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="git.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://github.com" target="_blank" rel="noreferrer"> <img src="github.svg" alt="github" width="40" height="40"/> </a> 
   <a href="" target="_blank" rel="noreferrer"> <img src="html.svg" alt="html" width="40" height="40"/> </a> 
   <a href="" target="_blank" rel="noreferrer"> <img src="css.svg" alt="css" width="40" height="40"/> </a> 
   <a href="" target="_blank" rel="noreferrer"> <img src="javascript.svg" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://www.microsoft.com/es-es/power-platform/products/power-bi" target="_blank" rel="noreferrer"> <img src="powerbi.svg" alt="powerbi" width="40" height="40"/> </a>
+  <a href="https://chatgpt.com" target="_blank" rel="noreferrer"> <img src="gpt.svg" alt="gpt" width="40" height="40"/> </a>
   <a href="https://www.metabase.com" target="_blank" rel="noreferrer"> <img src="metabase.svg" alt="metabase" width="40" height="40"/> </a> 
-  
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
+  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="jira.svg" alt="jira" width="40" height="40"/> </a>
+
   
 </p>
 
