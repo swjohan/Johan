@@ -30,7 +30,7 @@
 ### 🗄️ Bases de Datos y Cache
   <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="redis.svg" alt="redis" width="40" height="40"/> </a> 
 
-### 📡 Sistemas operativos
+### 📡 Sistemas Operativos
 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="linux.svg" alt="linux" width="40" height="40"/> </a> 
   <a href="https://www.apple.com/co/os/macos/" target="_blank" rel="noreferrer"> <img src="macos.png" alt="macos" width="40" height="40"/> </a> 
