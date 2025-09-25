@@ -16,8 +16,6 @@
   <a href="" target="_blank" rel="noreferrer"> <img src="html.svg" alt="html" width="40" height="40"/> </a> 
   <a href="" target="_blank" rel="noreferrer"> <img src="css.svg" alt="css" width="40" height="40"/> </a> 
   <a href="" target="_blank" rel="noreferrer"> <img src="javascript.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.microsoft.com/es-es/power-platform/products/power-bi" target="_blank" rel="noreferrer"> <img src="powerbi.svg" alt="powerbi" width="40" height="40"/> </a>
-  <a href="https://chatgpt.com" target="_blank" rel="noreferrer"> <img src="gpt.png" alt="gpt" width="40" height="40"/> </a>
   <a href="https://www.metabase.com" target="_blank" rel="noreferrer"> <img src="metabase.svg" alt="metabase" width="40" height="40"/> </a> 
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="jira.png" alt="jira" width="40" height="40"/> </a>
 
