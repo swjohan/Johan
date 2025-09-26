@@ -17,6 +17,7 @@
 ### 💻 Lenguajes de Programación y Markup
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="python.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://www.ruby-lang.org/es/" target="_blank" rel="noreferrer"> <img src="ruby.svg" alt="ruby" width="40" height="40"/> </a>
+  <a href="" target="_blank" rel="noreferrer"> <img src="sql.svg" alt="sql" width="40" height="40"/> </a>
   <a href="" target="_blank" rel="noreferrer"> <img src="javascript.svg" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://nodejs.org/es" target="_blank" rel="noreferrer"> <img src="nodejs.svg" alt="nodejs" width="40" height="40"/> </a> 
   <a href="" target="_blank" rel="noreferrer"> <img src="html.svg" alt="html" width="40" height="40"/> </a> 
