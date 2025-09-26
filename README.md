@@ -19,7 +19,6 @@
   <a href="https://www.ruby-lang.org/es/" target="_blank" rel="noreferrer"> <img src="ruby.svg" alt="ruby" width="40" height="40"/> </a>
   <a href="" target="_blank" rel="noreferrer"> <img src="javascript.svg" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://nodejs.org/es" target="_blank" rel="noreferrer"> <img src="nodejs.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="postgresql.svg" alt="postgresql" width="40" height="40"/> </a> 
   <a href="" target="_blank" rel="noreferrer"> <img src="html.svg" alt="html" width="40" height="40"/> </a> 
   <a href="" target="_blank" rel="noreferrer"> <img src="css.svg" alt="css" width="40" height="40"/> </a> 
 
@@ -35,6 +34,7 @@
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="jira.png" alt="jira" width="40" height="40"/> </a>
 
 ### 🗄️ Bases de Datos y Cache
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="postgresql.svg" alt="postgresql" width="40" height="40"/> </a> 
   <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="redis.svg" alt="redis" width="40" height="40"/> </a> 
 
 ### 📡 Sistemas Operativos
